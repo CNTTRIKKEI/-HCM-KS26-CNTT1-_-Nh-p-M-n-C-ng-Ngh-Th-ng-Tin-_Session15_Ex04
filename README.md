@@ -1,6 +1,7 @@
 # Mô tả cách thiết lập tính năng Files On-Demand để chỉ tải file xuống khi cần mở thực tế.
 ## Cơ chế hoạt động :
- - khi bật files on demand toàn bộ danh sách 500gb sẽ hiển thị dưới dạng bản sao ảo 
+ - khi bật files on demand toàn bộ danh sách 500gb sẽ hiển thị dưới dạng bản sao ảo
+ - Các file này chỉ có dung lượng hiển thị tượng trưng (vài KB metadata), hoàn toàn không chiếm dung lượng thực tế trên ổ cứng SSD
 ## cách thức truy xuất thực tế 
  - giải phóng dung lượng : sau khi xem xong hoặc xử lý xong hệ thống sẽ tự động đưa file vào cloud,xóa file bộ nhớ tạm và trả lại không gian trống cho SSD
  - cloud only: khi cần xem lại một video cũ . Chỉ cần nhấn vào file , ứng dụng sẽ tự động tải file đó từ cloud xún bộ nhớ đệm tạm thời trên SSD
