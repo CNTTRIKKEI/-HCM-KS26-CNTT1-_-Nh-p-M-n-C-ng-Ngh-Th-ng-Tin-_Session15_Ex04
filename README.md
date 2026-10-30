@@ -1,5 +1,4 @@
-# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session15_Ex01
-# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session15_ex02
-# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session15_Ex03
-# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session15_Ex04
-# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session15_Ex04
+# Mô tả cách thiết lập tính năng Files On-Demand để chỉ tải file xuống khi cần mở thực tế.
+## Cơ chế hoạt động :
+ - khi bật files on demand toàn bộ danh sách 500gb sẽ hiển thị dưới dạng bản sao ảo 
+##  
